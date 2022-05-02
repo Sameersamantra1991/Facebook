@@ -8,6 +8,14 @@ body{
 *{
 margin: 0px;
 }
+.facebook{
+    position: absolute;
+    left:200px;
+    color:white;
+    font-size: 55px;
+    font-weight: bold;
+    top:25px;
+}
 .input{
     height: 25px;
 }
@@ -26,6 +34,7 @@ margin: 0px;
 }
 .Forgotten{
     margin-left: 180px;
+    color: rgb(137, 137, 247);
 }
 .botton{
     background-color: rgb(98, 98, 251);
