@@ -18,6 +18,7 @@ margin: 0px;
 }
 .input{
     height: 25px;
+   outline: none;
 }
 .emailorphone{
     position: absolute;
@@ -53,6 +54,7 @@ margin: 0px;
     border-radius: 5px;
     margin-bottom: 15px;
     width: 430px;
+    
 }
 .inputtwo{
     width:210px;
@@ -84,7 +86,12 @@ select{
 input[type=radio] {
     border: 0px;
     width: 20px;
-    height: 2em;
+    height: 1.5em;
+}
+input[type="text"]
+{
+    font-size:24px;
+    
 }
 .female{
     font-size: 20px;
