@@ -1,0 +1,95 @@
+body{
+    background-color: rgb(215, 215, 230);
+}
+.maindiv{
+    background-color: rgb(3, 3, 116);
+    height: 95px;
+}
+*{
+margin: 0px;
+}
+.input{
+    height: 25px;
+}
+.emailorphone{
+    position: absolute;
+    right: 0px;
+    margin-right: 200px;
+    margin-top: 17px;
+    color:white;
+    font-weight: bold;
+
+}
+.Password{
+    margin-left:70px;
+
+}
+.Forgotten{
+    margin-left: 180px;
+}
+.botton{
+    background-color: rgb(98, 98, 251);
+    color:white;
+    padding: 7px;
+    border-radius: 5px;
+}
+.createaccount{
+    margin-top: 30px;
+}
+.account{
+    margin-left: 980px;
+}
+.inputone{
+    height: 40px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    width: 430px;
+}
+.inputtwo{
+    width:210px;
+}
+.createan{
+    font-size: 45px;
+    margin-bottom: 15px;
+}
+.freeandalways{
+    margin-bottom: 15px;
+}
+
+::placeholder{
+    font-size: 23px;
+}
+.Birthday{
+    margin-bottom: 15px;
+}
+select{
+    padding: 10px;
+    font-size:18px;
+}
+.whydoi{
+    position:absolute;
+    margin-top: -40px;
+    color: blue;
+    margin-left: 270px;
+}
+input[type=radio] {
+    border: 0px;
+    width: 20px;
+    height: 2em;
+}
+.female{
+    font-size: 20px;
+}
+.clicking{
+    margin-top: 15px;
+}
+.buttonlast{
+    background-color: rgb(16, 120, 16);
+    width: 220px;
+    padding: 10px;
+    color:white;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+}
